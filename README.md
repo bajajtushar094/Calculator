@@ -4,8 +4,8 @@
 ## What is this?
 I have made this simple calculator based on flutter.
 
-## What did I build this with?
-We used Flutter for the front-end and Firebase for the backend.
+## Why did I build this?
+In this attempt, I wanted to get used to Flutter and try my hands in App Development.
 
 ## Screenshots of App
 <p align="center">
